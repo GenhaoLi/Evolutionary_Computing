@@ -10,6 +10,7 @@ packages = [{include = "evolutionary_computing"}]
 python = "^3.10.14"
 numpy = "^2.1.1"
 matplotlib = "^3.9.2"
+networkx = "^3.3"
 
 
 [build-system]
